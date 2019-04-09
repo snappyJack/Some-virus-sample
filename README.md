@@ -5,3 +5,6 @@ https://www.kernelmode.info/forum/viewtopic.php?f=16&t=3471
 
 ### gates.rar
 盖茨木马，解压密码：infected
+
+### XOR.DDoS.zip
+XOR.DDoS
