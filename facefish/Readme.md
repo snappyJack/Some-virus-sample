@@ -1,1 +1,6 @@
+facefish backdoor sample
+password:virus
 
+MD5 38fb322cc6d09a6ab85784ede56bc5a7
+SHA-1 f7d95a887a51fe97ce64a93a40196b2cccaa80d8
+SHA-256 ab9cc4ee82aa6f57ba2a113aab905c33e278c969399db4188d0ea5942ad3bb7d 
